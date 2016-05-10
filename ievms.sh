@@ -399,7 +399,7 @@ build_ievm() {
         IE8_Win7.zip) md5="21b0aad3d66dac7f88635aa2318a3a55" ;;
         IE9_Win7.zip) md5="58d201fe7dc7e890ad645412264f2a2c" ;;
         IE10_Win8.zip) md5="cc4e2f4b195e1b1e24e2ce6c7a6f149c" ;;
-        MSEdge_Win10.zip) md5="e7ccb5494175e7a9c317c11311880613" ;;
+        MSEdge_Win10.zip) md5="09de6537ea43097d02f61986e594ac0f" ;;
     esac
     
     log "Checking for existing OVA at ${ievms_home}/${ova}"
