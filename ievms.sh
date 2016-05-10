@@ -392,7 +392,6 @@ build_ievm() {
         url="http://virtualization.modern.ie/vhd/IEKitV1_Final/VirtualBox/OSX/${archive}"
     fi
 
-
     local md5
     case $archive in
         IE6_WinXP.zip) md5="3d5b7d980296d048de008d28305ca224" ;;
